@@ -1,5 +1,5 @@
 {
-  "name": "pkg-automation-pieces-framework-test",
+  "name": "automation-pieces-framework-test",
   "version": "0.1.0",
   "type": "commonjs",
   "main": "dist/index.js",
